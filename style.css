@@ -1,0 +1,43 @@
+h1{
+    color:red
+}
+img{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+
+.header{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: space-between;
+}
+
+.outer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:cyan;
+    padding: 30px;
+    font-size: 17px;
+    font-family:serif;
+    font-weight: 200;
+    color: crimson;
+}
+
+.text{
+    background-color: greenyellow;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(226, 72, 206);
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-family: fantasy;
+}
